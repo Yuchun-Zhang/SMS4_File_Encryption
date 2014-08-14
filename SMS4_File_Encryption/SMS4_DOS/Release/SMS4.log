@@ -1,0 +1,130 @@
+﻿生成启动时间为 2014/8/15 0:15:38。
+     1>项目“E:\大学学习\文件以及课件\计算机课程\SMS4\SMS4\SMS4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp test.cpp ByteToInt.cpp Fill.cpp IntToByte.cpp KeyGenerate.cpp Plus.cpp SBOX.cpp SMS4_DecyptBlock.cpp SMS4_EncryptBlock.cpp SMS4_De_CTR.cpp SMS4_En_CBC.cpp SMS4_En_CFB.cpp SMS4_En_CTR.cpp SMS4_En_OFB.cpp SMS4_Encrypt.cpp SMS4_De_CBC.cpp SMS4_De_CFB.cpp SMS4_De_OFB.cpp SMS4_Decrypt.cpp
+         Main.cpp
+     1>Main.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>Main.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(188): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+     1>Main.cpp(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(290) : 参见“scanf”的声明
+         test.cpp
+     1>test.cpp(5): warning C4101: “count”: 未引用的局部变量
+     1>test.cpp(4): warning C4101: “fileLen”: 未引用的局部变量
+     1>test.cpp(5): warning C4101: “in_temp”: 未引用的局部变量
+     1>test.cpp(4): warning C4101: “plain”: 未引用的局部变量
+     1>test.cpp(4): warning C4101: “cipher”: 未引用的局部变量
+         ByteToInt.cpp
+         Fill.cpp
+         IntToByte.cpp
+         KeyGenerate.cpp
+         Plus.cpp
+         SBOX.cpp
+         SMS4_DecyptBlock.cpp
+         SMS4_EncryptBlock.cpp
+         SMS4_De_CTR.cpp
+     1>SMS4_De_CTR.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CTR.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CTR.cpp(7): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_En_CBC.cpp
+     1>SMS4_En_CBC.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CBC.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CBC.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_En_CFB.cpp
+     1>SMS4_En_CFB.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CFB.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CFB.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_En_CTR.cpp
+     1>SMS4_En_CTR.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CTR.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_CTR.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_En_OFB.cpp
+     1>SMS4_En_OFB.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_OFB.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_En_OFB.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_Encrypt.cpp
+     1>SMS4_Encrypt.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_Encrypt.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_Encrypt.cpp(5): warning C4101: “i”: 未引用的局部变量
+     1>SMS4_Encrypt.cpp(5): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_De_CBC.cpp
+     1>SMS4_De_CBC.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CBC.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CBC.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_De_CFB.cpp
+     1>SMS4_De_CFB.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CFB.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_CFB.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_De_OFB.cpp
+     1>SMS4_De_OFB.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_OFB.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_De_OFB.cpp(6): warning C4101: “in_temp”: 未引用的局部变量
+         SMS4_Decrypt.cpp
+     1>SMS4_Decrypt.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_Decrypt.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>SMS4_Decrypt.cpp(5): warning C4101: “i”: 未引用的局部变量
+     1>SMS4_Decrypt.cpp(5): warning C4101: “in_temp”: 未引用的局部变量
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\大学学习\文件以及课件\计算机课程\SMS4\Release\SMS4.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\大学学习\文件以及课件\计算机课程\SMS4\Release\SMS4.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\大学学习\文件以及课件\计算机课程\SMS4\Release\SMS4.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Release\test.obj
+         Release\ByteToInt.obj
+         Release\Fill.obj
+         Release\IntToByte.obj
+         Release\KeyGenerate.obj
+         Release\Plus.obj
+         Release\SBOX.obj
+         Release\SMS4_DecyptBlock.obj
+         Release\SMS4_EncryptBlock.obj
+         Release\SMS4_De_CTR.obj
+         Release\SMS4_En_CBC.obj
+         Release\SMS4_En_CFB.obj
+         Release\SMS4_En_CTR.obj
+         Release\SMS4_En_OFB.obj
+         Release\SMS4_Encrypt.obj
+         Release\SMS4_De_CBC.obj
+         Release\SMS4_De_CFB.obj
+         Release\SMS4_De_OFB.obj
+         Release\SMS4_Decrypt.obj
+         正在生成代码
+         已完成代码的生成
+     1>LINK : fatal error LNK1207: “E:\大学学习\文件以及课件\计算机课程\SMS4\Release\SMS4.pdb”中的 PDB 格式不兼容；请删除并重新生成
+     1>已完成生成项目“E:\大学学习\文件以及课件\计算机课程\SMS4\SMS4\SMS4.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.45

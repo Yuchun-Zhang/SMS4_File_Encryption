@@ -1,0 +1,31 @@
+Encryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.0234375 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.0234375 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.0234375 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.0234375 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.0234375 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.015625 Kb
+Speed: N/A Kb/sEncryption------ECB(Normal) Mode
+Cost Time: 0 s
+The File is 0.015625 Kb
+Speed: N/A Kb/s

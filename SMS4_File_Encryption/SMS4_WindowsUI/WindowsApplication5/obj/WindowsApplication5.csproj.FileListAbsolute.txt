@@ -1,0 +1,2 @@
+D:\程序\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\程序\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
